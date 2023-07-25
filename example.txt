@@ -1,0 +1,13 @@
+C         //The piece which is going to start
+J2--I3    //Movements
+A7--B6
+B2--C3
+C7--D6
+A1--B2
+I7--J6
+F2--H3
+F2--G3
+D6--E5
+C3--D4
+J6--I5
+<Enter>    //EOF flag (must be included if you do not want a infinite loop)
