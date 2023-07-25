@@ -5,6 +5,7 @@ An open source 10x10 checkers game to be played on console!
 First, you'll have to choose the pieces which are going to start the game ('B' for the down-side pieces and 'C' for the up-side pieces)
 
 When game starts, your moves must be in this exact format: 
+
 __<START_COLUMN><START_ROW>--<TOGO_COLUMN><TOGO_ROW>__ (__Example: A7--B6__)
 
 # Auto-Play mode
