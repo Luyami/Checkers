@@ -6,6 +6,11 @@ First, you'll have to choose the pieces which are going to start the game ('B' f
 
 When game starts, your moves must be in this exact format: __<START_COLUMN><START_ROW>--<TOGO_COLUMN><TOGO_ROW>__ (__Example: A7--B6__)
 
+# Auto-Play mode
+If you pass a file as a console argument when executing the game, it starts in Auto-Play mode
+
+This mode executes all movements described in the file (Check example in example.txt file)
+
 # Purpose
 It's a university project (the reason why comments are in portuguese and not in english), that's all (:
 
