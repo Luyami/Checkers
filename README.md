@@ -1,5 +1,5 @@
 # Checkers
-An open source 10x10 checkers game to be played on console!
+An open source 10x10 checkers game to be played on terminal!
 
 # How to play
 First, you'll have to choose the pieces which are going to start the game ('B' for the down-side pieces and 'C' for the up-side pieces)
