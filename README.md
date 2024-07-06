@@ -9,7 +9,7 @@ When game starts, your moves must be in this exact format:
 __<START_COLUMN><START_ROW>--<TOGO_COLUMN><TOGO_ROW>__ (__Example: A7--B6__)
 
 # Auto-Play mode
-If you pass a file as a console argument when executing the game, it starts in Auto-Play mode
+If you pass a file as a command-line argument when executing the game, it starts in Auto-Play mode
 
 This mode executes all movements described in the file (Check example in example.txt file)
 
