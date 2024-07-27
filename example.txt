@@ -10,4 +10,4 @@ F2--G3
 D6--E5
 C3--D4
 J6--I5
-<Enter>    //EOF flag (must be included if you do not want a infinite loop)
+<Enter>    //EOF flag (must be included if you do not want an infinite loop)
